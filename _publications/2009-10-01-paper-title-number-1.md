@@ -10,7 +10,7 @@ citation: 'Dasgupta, Rohan. (2023). &quot;Analyzing Energy Efficiency in Buildin
 ---
 This paper is about using AI/ML techniques to analyze energy efficiency in buildings and provide recommendations..
 
-[Download paper here](http://RohanD2023.github.io/files/Analyzing-Energy-Efficiency-in-Buildings.pdf)
+[Download paper here](https://tinyurl.com/y2pavvvp)
 
 Recommended citation: Crawley, D. B., Pandala, S. R., Liang, E., Bass, B., Curtis, L., McNally, P., Chollet, F., & Scharnhorst, P. (2021). "Energym: A building model library for controller bench-
 marking." <i>Appl. Sci. (Basel) 11 </i>. 1(1).
