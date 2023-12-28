@@ -5,7 +5,7 @@ permalink: /publication/Analyzing-Energy-Efficiency-in-Buildings
 excerpt: 'This paper is about using AI/ML techniques to analyze energy efficiency in buildings and provide recommendations.'
 date: 2023-10-30
 venue: 'Journal 1'
-paperurl: 'http://RohanD2023.github.io/files/Analyzing-Energy-Efficiency-in-Buildings.pdf'
+paperurl: 'https://tinyurl.com/y2pavvvp'
 citation: 'Dasgupta, Rohan. (2023). &quot;Analyzing Energy Efficiency in Buildings&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about using AI/ML techniques to analyze energy efficiency in buildings and provide recommendations..
