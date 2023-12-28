@@ -1,15 +1,16 @@
 ---
 title: "Paper Title Number 1"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: /publication/Analyzing-Energy-Efficiency-in-Buildings
+excerpt: 'This paper is about using AI/ML techniques to analyze energy efficiency in buildings and provide recommendations.'
+date: 2023-10-30
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'http://RohanD2023.github.io/files/Analyzing-Energy-Efficiency-in-Buildings.pdf'
+citation: 'Dasgupta, Rohan. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about using AI/ML techniques to analyze energy efficiency in buildings and provide recommendations..
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://RohanD2023.github.io/files/Analyzing-Energy-Efficiency-in-Buildings.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Crawley, D. B., Pandala, S. R., Liang, E., Bass, B., Curtis, L., McNally, P., Chollet, F., & Scharnhorst, P. (2021). "Energym: A building model library for controller bench-
+marking." <i>Appl. Sci. (Basel) 11 </i>. 1(1).
